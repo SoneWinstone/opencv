@@ -1,0 +1,3 @@
+H:/Code/OpenCV/Hello/cmake-build-debug/CMakeFiles/Hello.dir
+H:/Code/OpenCV/Hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/OpenCV/Hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+H:/Code/OpenCV/04_ROI/cmake-build-debug/CMakeFiles/04_ROI.dir
+H:/Code/OpenCV/04_ROI/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/OpenCV/04_ROI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
