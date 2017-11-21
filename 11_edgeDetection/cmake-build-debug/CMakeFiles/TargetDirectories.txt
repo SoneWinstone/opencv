@@ -1,0 +1,3 @@
+H:/Code/OpenCV/11_edgeDetection/cmake-build-debug/CMakeFiles/11_edgeDetection.dir
+H:/Code/OpenCV/11_edgeDetection/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/OpenCV/11_edgeDetection/cmake-build-debug/CMakeFiles/rebuild_cache.dir

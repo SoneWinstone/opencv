@@ -35,6 +35,8 @@ int main() {
      *                             double sigmaSpace, //Filter sigma in the coordinate space.
      *                             int borderType = BORDER_DEFAULT );
      */
+    namedWindow("[4]Ë«±ßÂË²¨", WINDOW_FULLSCREEN);
+
     on_bilateralFilter(0, nullptr);
     createTrackbar("kSize", "[4]Ë«±ßÂË²¨", &g_nSizeBilateral, 50, on_bilateralFilter);
 

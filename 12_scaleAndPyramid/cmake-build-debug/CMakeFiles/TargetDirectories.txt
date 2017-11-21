@@ -1,0 +1,3 @@
+H:/Code/OpenCV/12_scaleAndPyramid/cmake-build-debug/CMakeFiles/12_scaleAndPyramid.dir
+H:/Code/OpenCV/12_scaleAndPyramid/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/OpenCV/12_scaleAndPyramid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
