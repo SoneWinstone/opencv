@@ -1,0 +1,3 @@
+H:/Code/OpenCV/15_cornerHarris/cmake-build-debug/CMakeFiles/15_cornerHarris.dir
+H:/Code/OpenCV/15_cornerHarris/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Code/OpenCV/15_cornerHarris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
